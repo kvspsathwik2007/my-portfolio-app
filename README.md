@@ -19,7 +19,7 @@ This portfolio website is my first web development project, demonstrating my pas
 
 - **HTML5** - Semantic markup and structure
 - **CSS3** - Styling and responsive design
-- **JavaScript** - Interactivity and dynamic features
+
 
 ## 📁 Project Structure
 
@@ -27,8 +27,31 @@ This portfolio website is my first web development project, demonstrating my pas
 ├── index.html        # Main HTML file
 ├── styles.css        # Stylesheet
 ├── sathwik.jpeg      # Profile photo
+├── images/           # Portfolio screenshots
 └── README.md         # Project documentation
 ```
+
+## 📸 Portfolio Screenshots
+
+### Hero Section - Welcome
+![Welcome Page](images/portfolio-hero.png)
+*Beautiful hero section with navigation buttons for different portfolio sections*
+
+### About Section
+![About Section](images/portfolio-about.png)
+*Introduction, profile photo, and background information*
+
+### Projects Showcase
+![Projects Section](images/portfolio-projects.png)
+*Display of completed projects with detailed descriptions*
+
+### Skills Section
+![Skills Section](images/portfolio-skills.png)
+*List of technical skills and programming competencies*
+
+### Contact Form
+![Contact Section](images/portfolio-contact.png)
+*Interactive contact form with multiple input fields and validation*
 
 ## 🚀 Projects Featured
 
