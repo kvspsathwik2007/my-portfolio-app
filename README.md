@@ -34,24 +34,28 @@ This portfolio website is my first web development project, demonstrating my pas
 ## 📸 Portfolio Screenshots
 
 ### Hero Section - Welcome
-![Welcome Page](images/portfolio-hero.png)
+![Welcome Page](images/Screenshot%202026-06-09%20185616.png)
 *Beautiful hero section with navigation buttons for different portfolio sections*
 
 ### About Section
-![About Section](images/portfolio-about.png)
+![About Section](images/Screenshot%202026-06-09%20185650.png)
 *Introduction, profile photo, and background information*
 
 ### Projects Showcase
-![Projects Section](images/portfolio-projects.png)
+![Projects Section](images/Screenshot%202026-06-09%20185723.png)
 *Display of completed projects with detailed descriptions*
 
 ### Skills Section
-![Skills Section](images/portfolio-skills.png)
+![Skills Section](images/Screenshot%202026-06-09%20185745.png)
 *List of technical skills and programming competencies*
 
 ### Contact Form
-![Contact Section](images/portfolio-contact.png)
+![Contact Section](images/Screenshot%202026-06-09%20185802.png)
 *Interactive contact form with multiple input fields and validation*
+
+### Footer
+![Footer Section](images/Screenshot%202026-06-09%20185825.png)
+*Professional footer with contact information*
 
 ## 🚀 Projects Featured
 
